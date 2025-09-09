@@ -19,8 +19,8 @@ It helps visualize **KPIs, regional sales trends, customer performance**, and in
 - 📊 **PivotTables**: Sales by Region, Product, and Customer.  
 - 📈 **Charts**:
   - Bar Chart → Sales by Region & Product  
-  - Line Chart → Monthly Sales Growth  
-  - Pie Chart → Market Share by Region  
-  - KPI Arrows ↑/↓ for growth tracking
+  - Line Chart → Sales by Region & Product  
+  - Pie Chart → Sales by Region & Product  
+  
   
 
